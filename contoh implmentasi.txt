@@ -3,5 +3,4 @@ NIM : 11323006
 Prodi : D3-Teknologi Informasi 
 
 File ini sebagai contoh untuk pengimplmentasian github
-GITHUB adalah website/layanan untuk menyimpan dan mengelola project GIT.
 GITHUB adalah sebuah website yang dapat dikunjungi dan diregistrasi, setelah buat akun maka kita bisa upload file atau membuat file dan file nya dapat dikelola menggunakan version controller punya GITHUB.
