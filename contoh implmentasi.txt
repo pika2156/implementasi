@@ -1,0 +1,6 @@
+Nama : Cheryl Meilyn Lovica
+NIM : 11323006
+Prodi : D3-Teknologi Informasi 
+
+File ini sebagai contoh untuk pengimplmentasian github
+GITHUB adalah website/layanan untuk menyimpan dan mengelola project GIT.
